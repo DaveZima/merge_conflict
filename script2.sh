@@ -1,12 +1,11 @@
 #/bin/bash
 one
 two
-banana
-four
+three
+orange
 five
 six
 seven
 eight
 nine
 ten
-
