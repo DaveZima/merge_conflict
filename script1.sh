@@ -1,5 +1,5 @@
 #/bin/bash
-feature 1 change
+made change for test1
 two
 apple
 four
